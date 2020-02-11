@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 # 打包项目
 cd $PROJ_PATH/jenkins-test

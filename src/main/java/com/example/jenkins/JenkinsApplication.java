@@ -28,6 +28,7 @@ public class JenkinsApplication  extends SpringBootServletInitializer {
 		List<String> list=new ArrayList<>();
 		list.add("dylan");
 		list.add("ruler");
+		list.add("I love you");
 		return list;
 	}
 }
